@@ -2,6 +2,8 @@
 Knowledge Base for the TechEd-301 course.
 
 
+## npm start
+
 ## Destructuring
 
 ```js
